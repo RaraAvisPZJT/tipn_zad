@@ -12,8 +12,8 @@
 
 | Tabelka | w  | markdown'nie | fajna | prawda??? |
 |---------|----|--------------|-------|-----------|
-| lubię   |   
-| nie     |    | lubię       
+| lubię   |    |              |       |           |
+| nie     |    | lubię        |       |   spróbuje tak     | 
 
 ## I listy
 
